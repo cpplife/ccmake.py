@@ -1,0 +1,4 @@
+
+* How to get dependencies list?
+    parse source file( c, cpp and etc ), this is language dependent;
+    strace (like fabricate.py ), monitor accessed files when building: not easy in windows, fabricate.py used access time to do that.

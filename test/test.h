@@ -1,0 +1,3 @@
+struct TEST {
+	int v;
+};
